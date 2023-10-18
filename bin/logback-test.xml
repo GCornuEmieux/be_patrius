@@ -1,0 +1,25 @@
+<configuration debug="false" scan="false">
+
+
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+		<file>logs/logfile.log</file>
+		<append>false</append>
+		<encoder>
+			<pattern>[%d{hh:mm:ss}] %level %logger{0} | %m%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="CONSOLE"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>[%d{hh:mm:ss}] %level %logger{0} | %m%n</pattern>
+		</encoder>
+	</appender>
+
+	<root level="INFO">
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="FILE" />
+	</root>
+
+</configuration>

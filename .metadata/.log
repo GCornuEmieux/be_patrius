@@ -1,0 +1,398 @@
+!SESSION 2023-08-30 11:21:15.740 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.018
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.019
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.020
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.021
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.023
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-08-30 11:21:19.024
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-08-30 11:21:19.069
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-08-30 11:21:19.070
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+!SESSION 2023-09-01 16:27:10.340 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.834
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.836
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.837
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.838
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.840
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-01 16:27:13.841
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-01 16:27:13.886
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-01 16:27:13.887
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.jobs 2 2 2023-09-01 16:27:26.913
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.oomph.internal.ui.EarlyStart$1
+!SESSION 2023-09-12 15:53:18.994 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-12 15:53:25.391
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-12 15:53:25.460
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-12 15:53:25.476
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+!SESSION 2023-09-13 14:00:12.366 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.872
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.874
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.876
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.876
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.878
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-13 14:00:15.879
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-13 14:00:15.919
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-13 14:00:15.920
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+!SESSION 2023-09-22 09:09:11.999 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.683
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.685
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.686
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.687
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.691
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 09:09:18.693
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 09:09:18.780
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 09:09:18.782
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+!SESSION 2023-09-22 16:53:19.170 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.232
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.234
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.236
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.238
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.243
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:53:33.244
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 16:53:33.338
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 16:53:33.339
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.equinox.app 4 2 2023-09-22 16:53:40.801
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.equinox.app".
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4723)
+	at org.eclipse.swt.SWT.error(SWT.java:4638)
+	at org.eclipse.swt.SWT.error(SWT.java:4609)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:432)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:351)
+	at org.eclipse.swt.widgets.Shell.close(Shell.java:547)
+	at org.eclipse.ui.splash.AbstractSplashHandler.dispose(AbstractSplashHandler.java:65)
+	at org.eclipse.ui.splash.BasicSplashHandler.dispose(BasicSplashHandler.java:163)
+	at org.eclipse.ui.internal.Workbench$3$1.applicationRunning(Workbench.java:836)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle$1.run(EclipseAppHandle.java:279)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.applicationRunning(EclipseAppHandle.java:267)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1093)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+!SESSION 2023-09-22 16:53:54.227 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_252
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.214
+!MESSAGE System property http.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.216
+!MESSAGE System property http.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.217
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.218
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.222
+!MESSAGE System property https.proxyHost is not set but should be proxy-surf.loc.cnes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2023-09-22 16:54:00.223
+!MESSAGE System property https.proxyPort is not set but should be 8050.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 16:54:00.306
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2023-09-22 16:54:00.308
+!MESSAGE The content type with id "org.eclipse.buildship.core.files.gradlebuildscript" specified in the extension point does not exist.
+!SESSION 2023-10-17 18:54:35.703 -----------------------------------------------
+eclipse.buildId=4.25.0.I20220831-1800
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2023-10-17 18:56:33.393
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-17 18:56:33.393
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-10-17 18:56:33.393
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-10-17 18:56:36.240
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Gaspard'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.288
+!MESSAGE Removing PartDescriptorImpl with the "de.tobject.findbugs.view.buginfoview" id and the "Bug Info" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.302
+!MESSAGE Removing PartDescriptorImpl with the "de.tobject.findbugs.view.bugtreeview" id and the "Bug Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.314
+!MESSAGE Removing PartDescriptorImpl with the "net.sf.eclipsecs.ui.stats.views.MarkerStatsView" id and the "Checkstyle violations" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.336
+!MESSAGE Removing PartDescriptorImpl with the "net.sf.eclipsecs.ui.stats.views.GraphStatsView" id and the "Checkstyle violations chart" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.347
+!MESSAGE Removing PartDescriptorImpl with the "net.sourceforge.pmd.eclipse.ui.views.violationOutline" id and the "Alertes PMD" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.400
+!MESSAGE Removing PartDescriptorImpl with the "net.sourceforge.pmd.eclipse.ui.views.violationOverview" id and the "Synthèse des alertes PMD" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.411
+!MESSAGE Removing PartDescriptorImpl with the "net.sourceforge.pmd.eclipse.ui.views.dataflowView" id and the "Flots de données" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.419
+!MESSAGE Removing PartDescriptorImpl with the "net.sourceforge.pmd.eclipse.ui.views.br.CPDView2" id and the "Vue CPD" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.427
+!MESSAGE Removing PartDescriptorImpl with the "net.sourceforge.pmd.eclipse.plugin.astView" id and the "XPath Designer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.439
+!MESSAGE Removing PartDescriptorImpl with the "org.codehaus.groovy.eclipse.astviews.ASTView" id and the "Groovy AST Viewer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.453
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.gef.ui.palette_view" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.470
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.api.tools.ui.views.apitooling.views.apitoolingview" id and the "API Tools" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.477
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.runtime.RegistryBrowser" id and the "Plug-in Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.488
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.495
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.504
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.509
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.514
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.521
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.search.SearchResultView" id and the "Classic Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.527
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.team.svn.ui.repository.RepositoriesView" id and the "SVN Repositories" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.534
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.team.svn.ui.properties.PropertiesView" id and the "SVN Properties" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.540
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.team.svn.ui.repository.browser.RepositoryBrowser" id and the "SVN Repository Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.546
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.team.svn.ui.properties.RevPropertiesView" id and the "Revision Properties" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.555
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.team.svn.ui.lock.LocksView" id and the "SVN Locks" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.574
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.common.snippets.internal.ui.SnippetsView" id and the "Snippets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.581
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.views.annotations.XMLAnnotationsView" id and the "Documentation" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.589
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.ui.contentmodel.view" id and the "Content Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.594
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wb.core.StructureView" id and the "Structure" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-10-17 18:56:36.602
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wb.core.PaletteView" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
