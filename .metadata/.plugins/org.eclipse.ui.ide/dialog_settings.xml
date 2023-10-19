@@ -7,6 +7,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Gaspard\Documents\Cours Supaero 4A\COS\Satellite_Patrius\Environnement_de_developpement\BEProgrammationMission"/>
 			<item value="C:\Users\Gaspard\Documents\Cours Supaero 4A\COS\Satellite\Environnement_de_developpement\BEProgrammationMission"/>
 			<item value="C:\Users\herberl\Documents\Thales\Projet BE Patrius Supaero\Edition_2023\Environnement_de_developpement\BEProgrammationMission"/>
 		</list>

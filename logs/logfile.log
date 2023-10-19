@@ -1,0 +1,85 @@
+[07:52:07] INFO BEProgMissionLogger | ##################################################
+[07:52:08] INFO BEProgMissionLogger | Complete simulation starting ...
+[07:52:08] INFO BEProgMissionLogger | CompleteMission [name=BE Supaero mission, startDate=2010-09-01T00:00:00.000, endDate=2010-09-08T00:00:00.000, satellite=Pleiades 1A]
+[07:52:09] INFO BEProgMissionLogger | 
+PARIS
+[07:52:09] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:09] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:08:32.585 (UTC) ; 2010-09-01T07:11:32.657 (UTC) ]
+[07:52:09] INFO BEProgMissionLogger | ACCESS [ 2010-09-02T07:47:31.717 (UTC) ; 2010-09-02T07:50:11.001 (UTC) ]
+[07:52:09] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:28:20.770 (UTC) ; 2010-09-04T07:29:19.424 (UTC) ]
+[07:52:09] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:32:09.093 (UTC) ; 2010-09-04T07:32:09.094 (UTC) ]
+[07:52:09] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:10:45.933 (UTC) ; 2010-09-06T07:11:23.868 (UTC) ]
+[07:52:09] INFO BEProgMissionLogger | ___________________________
+[07:52:10] INFO BEProgMissionLogger | 
+MARSEILLE
+[07:52:10] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:10] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:09:30.719 (UTC) ; 2010-09-01T07:13:19.825 (UTC) ]
+[07:52:10] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:50:36.176 (UTC) ; 2010-09-03T06:54:01.292 (UTC) ]
+[07:52:10] INFO BEProgMissionLogger | ACCESS [ 2010-09-05T06:34:08.140 (UTC) ; 2010-09-05T06:34:26.356 (UTC) ]
+[07:52:10] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:10:34.619 (UTC) ; 2010-09-06T07:12:20.268 (UTC) ]
+[07:52:10] INFO BEProgMissionLogger | ___________________________
+[07:52:12] INFO BEProgMissionLogger | 
+LYON
+[07:52:12] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:12] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:08:56.731 (UTC) ; 2010-09-01T07:12:38.017 (UTC) ]
+[07:52:12] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:50:06.173 (UTC) ; 2010-09-03T06:53:14.169 (UTC) ]
+[07:52:12] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:09:53.627 (UTC) ; 2010-09-06T07:13:43.811 (UTC) ]
+[07:52:12] INFO BEProgMissionLogger | ___________________________
+[07:52:15] INFO BEProgMissionLogger | 
+TOULOUSE
+[07:52:15] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:15] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:09:55.871 (UTC) ; 2010-09-01T07:13:03.558 (UTC) ]
+[07:52:15] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:51:26.596 (UTC) ; 2010-09-03T06:53:16.707 (UTC) ]
+[07:52:15] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:29:43.211 (UTC) ; 2010-09-04T07:33:32.179 (UTC) ]
+[07:52:15] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:10:36.155 (UTC) ; 2010-09-06T07:14:29.131 (UTC) ]
+[07:52:15] INFO BEProgMissionLogger | ___________________________
+[07:52:19] INFO BEProgMissionLogger | 
+NICE
+[07:52:19] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:19] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:09:16.969 (UTC) ; 2010-09-01T07:13:10.545 (UTC) ]
+[07:52:19] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:50:16.539 (UTC) ; 2010-09-03T06:53:59.141 (UTC) ]
+[07:52:19] INFO BEProgMissionLogger | ACCESS [ 2010-09-05T06:31:26.222 (UTC) ; 2010-09-05T06:34:35.508 (UTC) ]
+[07:52:19] INFO BEProgMissionLogger | ___________________________
+[07:52:23] INFO BEProgMissionLogger | 
+NANTES
+[07:52:23] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:23] INFO BEProgMissionLogger | ACCESS [ 2010-09-02T07:47:58.237 (UTC) ; 2010-09-02T07:51:51.665 (UTC) ]
+[07:52:23] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:28:54.784 (UTC) ; 2010-09-04T07:32:43.533 (UTC) ]
+[07:52:23] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:09:59.140 (UTC) ; 2010-09-06T07:13:25.476 (UTC) ]
+[07:52:23] INFO BEProgMissionLogger | ___________________________
+[07:52:28] INFO BEProgMissionLogger | 
+STRASBOURG
+[07:52:28] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:28] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:07:59.523 (UTC) ; 2010-09-01T07:11:50.931 (UTC) ]
+[07:52:28] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:49:01.289 (UTC) ; 2010-09-03T06:52:35.820 (UTC) ]
+[07:52:28] INFO BEProgMissionLogger | ACCESS [ 2010-09-05T06:30:12.642 (UTC) ; 2010-09-05T06:33:09.007 (UTC) ]
+[07:52:28] INFO BEProgMissionLogger | ___________________________
+[07:52:33] INFO BEProgMissionLogger | 
+MONTPELLIER
+[07:52:33] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:33] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:09:34.814 (UTC) ; 2010-09-01T07:13:13.578 (UTC) ]
+[07:52:33] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:50:46.807 (UTC) ; 2010-09-03T06:53:47.287 (UTC) ]
+[07:52:33] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:10:30.113 (UTC) ; 2010-09-06T07:14:20.784 (UTC) ]
+[07:52:33] INFO BEProgMissionLogger | ___________________________
+[07:52:40] INFO BEProgMissionLogger | 
+BORDEAUX
+[07:52:40] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:40] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:10:07.010 (UTC) ; 2010-09-01T07:12:20.030 (UTC) ]
+[07:52:40] INFO BEProgMissionLogger | ACCESS [ 2010-09-02T07:48:35.619 (UTC) ; 2010-09-02T07:52:22.869 (UTC) ]
+[07:52:40] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:29:27.477 (UTC) ; 2010-09-04T07:33:21.078 (UTC) ]
+[07:52:40] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:10:27.125 (UTC) ; 2010-09-06T07:14:09.377 (UTC) ]
+[07:52:40] INFO BEProgMissionLogger | ___________________________
+[07:52:46] INFO BEProgMissionLogger | 
+LILLE
+[07:52:46] INFO BEProgMissionLogger | ____ Printing Timeline ____
+[07:52:46] INFO BEProgMissionLogger | ACCESS [ 2010-09-01T07:08:00.511 (UTC) ; 2010-09-01T07:11:04.942 (UTC) ]
+[07:52:46] INFO BEProgMissionLogger | ACCESS [ 2010-09-02T07:46:56.981 (UTC) ; 2010-09-02T07:50:38.425 (UTC) ]
+[07:52:46] INFO BEProgMissionLogger | ACCESS [ 2010-09-03T06:49:25.393 (UTC) ; 2010-09-03T06:51:22.422 (UTC) ]
+[07:52:46] INFO BEProgMissionLogger | ACCESS [ 2010-09-04T07:27:46.391 (UTC) ; 2010-09-04T07:31:39.410 (UTC) ]
+[07:52:46] INFO BEProgMissionLogger | ACCESS [ 2010-09-06T07:08:41.672 (UTC) ; 2010-09-06T07:12:32.452 (UTC) ]
+[07:52:46] INFO BEProgMissionLogger | ___________________________
+[07:52:46] INFO BEProgMissionLogger | {TOULOUSE=fr.cnes.sirius.patrius.events.postprocessing.Timeline@2bb3058, BORDEAUX=fr.cnes.sirius.patrius.events.postprocessing.Timeline@7a362b6b, MARSEILLE=fr.cnes.sirius.patrius.events.postprocessing.Timeline@60df60da, NICE=fr.cnes.sirius.patrius.events.postprocessing.Timeline@5a2d131d, LYON=fr.cnes.sirius.patrius.events.postprocessing.Timeline@14fc1f0, LILLE=fr.cnes.sirius.patrius.events.postprocessing.Timeline@4ae9cfc1, MONTPELLIER=fr.cnes.sirius.patrius.events.postprocessing.Timeline@512baff6, PARIS=fr.cnes.sirius.patrius.events.postprocessing.Timeline@632ceb35, NANTES=fr.cnes.sirius.patrius.events.postprocessing.Timeline@1c93f6e1, STRASBOURG=fr.cnes.sirius.patrius.events.postprocessing.Timeline@1800a575}
+[07:52:46] INFO BEProgMissionLogger | 
+
+Simulation done
+[07:52:46] INFO BEProgMissionLogger | ##################################################
